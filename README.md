@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I am Angel</h1>
 <h3 align="center">A science research student</h3>
 
-- I’m currently working on **optimization for visual optics**
+- I’m currently working on **optimization for visual optics** and **GRIN lenses modeling** at [Tec de Monterrey](https://tec.mx/en)
 
-- I’m currently learning **optimization algorithms**
+- I’m currently learning **optimization algorithms, physical optics, [The Julia Programming Language](https://julialang.org/), and german language**
 
-- I'm interested in [The Julia Language](https://julialang.org/)
+- I'm interested in scientific literature, aviation, flight simulation (as ATC and pilot through IVAO), mild gaming, nuclear energy supporter, urbanism
+
+- *I am a Star Wars and Disney's Frozen fan*
 
 - How to reach me: **lepton.angel@gmail.com**
 
