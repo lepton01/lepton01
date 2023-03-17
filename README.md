@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Angel</h1>
+<h1 align="center">Hello there, I am Angel</h1>
 <h3 align="center">A science research student</h3>
 
 - I’m currently working on **optimization for visual optics** and **GRIN lenses modeling** at [Tec de Monterrey](https://tec.mx/en)
