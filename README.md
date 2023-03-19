@@ -5,7 +5,7 @@
 
 - I’m currently learning **optimization algorithms, physical optics, [The Julia Programming Language](https://julialang.org/), git and GitHub, and german language**
 
-- I'm interested in scientific literature, aviation, flight simulation (as ATC and pilot through IVAO), mild gaming, nuclear energy supporter, ethical and sustainable urbanism
+- I'm interested in scientific literature, aviation, flight simulation (as ATC and pilot through [IVAO](https://www.ivao.aero/)), mild gaming, nuclear energy supporter, ethical and sustainable urbanism
 
 - *I am a Star Wars and Disney's Frozen fan*
 
