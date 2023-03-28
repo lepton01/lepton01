@@ -3,7 +3,7 @@
 
 - I’m currently working on **optimization for visual optics** and **GRIN lenses modeling** at [Tec de Monterrey](https://tec.mx/en)
 
-- I’m currently learning **optimization algorithms, physical optics, [The Julia Programming Language](https://julialang.org/), git and GitHub, and german language**
+- I’m currently learning **optimization algorithms, physical optics, [The Julia Programming Language](https://julialang.org/), git and [GitHub](https://www.github.com/lepton01), and german language**
 
 - I'm interested in scientific literature, aviation, flight simulation (as ATC and pilot through [IVAO](https://www.ivao.aero/)), mild gaming, nuclear energy supporter, ethical and sustainable urbanism
 
