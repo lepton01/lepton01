@@ -9,7 +9,7 @@
 
 - *I am a Star Wars and Disney's Frozen fan*
 
-- How to reach me: **lepton.angel@gmail.com**
+- [A more complete look](https://amariooo.carrd.co)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
