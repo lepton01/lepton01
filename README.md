@@ -1,15 +1,17 @@
 <h1 align="center">Hello there, I am Angel</h1>
 <h3 align="center">A science research student</h3>
 
+- Español como lengua materna, English as a second language level C1
+
 - I’m currently working on **optimization for visual optics** and **GRIN lenses modeling** at [Tec de Monterrey](https://tec.mx/en)
 
-- I’m currently learning **optimization algorithms, physical optics, [The Julia Programming Language](https://julialang.org/), git and [GitHub](https://www.github.com/lepton01), and german language**
+- I’m currently learning: **physical optics**, machine learning and scientific computing through [The Julia Programming Language](https://julialang.org/), git and [GitHub](https://www.github.com/lepton01), and german language
 
-- I'm interested in scientific literature, aviation, flight simulation (as ATC and pilot through [IVAO](https://www.ivao.aero/)), mild gaming, nuclear energy supporter, ethical and sustainable urbanism
+- I'm interested in the following topics: _scientific literature, aviation, flight simulation (as ATC and pilot through [IVAO](https://www.ivao.aero/)), PC gaming and hardware, nuclear energy supporter, ethical and sustainable urbanism_
 
 - *I am a Star Wars and Disney's Frozen fan*
 
-- [A more complete look](https://amariooo.carrd.co)
+- Personal website: [A more complete look](https://amariooo.carrd.co)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
