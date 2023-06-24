@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I am Angel</h1>
 <h3 align="center">A science research student</h3>
 
-- I’m currently working on **optimization for visual optics** and **GRIN lenses modeling** at [Tec de Monterrey](https://tec.mx/en)
+- I’m currently working on **optimization for visual optics** at [Tec de Monterrey](https://tec.mx/en)
 
 - I’m currently learning: **physical optics**, machine learning and scientific computing through [The Julia Programming Language](https://julialang.org/), git and [GitHub](https://www.github.com/lepton01), and german language
 
