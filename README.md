@@ -7,8 +7,6 @@
 
 - I'm interested in the following topics: _scientific literature, aviation, flight simulation (as ATC and pilot through [IVAO](https://www.ivao.aero/)), PC gaming and hardware, nuclear energy supporter, ethical and sustainable urbanism_
 
-- *I am a Star Wars and Disney's Frozen fan*
-
 - Personal website: [A more complete look](https://amariooo.carrd.co)
 
 <h3 align="left">Connect with me:</h3>
