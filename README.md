@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I am Angel</h1>
-<h3 align="center">A science research student</h3>
+<h3 align="center">A science research / engineering physics student</h3>
 
 - I’m currently working on **optimization for visual optics** at [Tec de Monterrey](https://tec.mx/en)
 
