@@ -5,7 +5,7 @@
 
 - I’m currently learning: **physical optics**, machine learning and scientific computing through [The Julia Programming Language](https://julialang.org/), git and [GitHub](https://www.github.com/lepton01), and german language
 
-- I'm interested in the following topics: _scientific literature, aviation, flight simulation (as ATC and pilot through [IVAO](https://www.ivao.aero/)), PC gaming and hardware, nuclear energy supporter, ethical and sustainable urbanism_
+- I'm interested in the following topics: _scientific literature, aviation, flight simulation (as ATC and pilot through [IVAO](https://www.ivao.aero/)), PC gaming and hardware, nuclear energy technology, ethical and sustainable urbanism_
 
 - Personal website: [A more complete look](https://amariooo.carrd.co)
 
